@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/score.json", "dest": "/api/score.js" }
-  ]
-}
